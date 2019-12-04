@@ -3,11 +3,11 @@
   There exist different Data Structures that can be implemented in C++. Some examples would include:
   
    >-   [Arrays](http://www.cplusplus.com/doc/tutorial/arrays/)
-   >-   Linked Listst
-   >-   Queues/Stacks
-   >-   Trees
-   >-   Graphs
-   >-   Hash Maps
+   >-   [Linked Listst](https://www.geeksforgeeks.org/data-structures/linked-list/)
+   >-   [Queues](http://www.cplusplus.com/reference/queue/queue/)/[Stacks](http://www.cplusplus.com/reference/stack/stack/)
+   >-   [Trees](https://www.geeksforgeeks.org/binary-tree-set-1-introduction/)
+   >-   [Graphs](https://stackoverflow.com/questions/5493474/graph-implementation-c)
+   >-   *Hash Maps*
   
 
 
