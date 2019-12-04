@@ -2,12 +2,12 @@
   
   There exist different Data Structures that can be implemented in C++. Some examples would include:
   ```
-   -   Arrays
+   -   [Arrays](http://www.cplusplus.com/doc/tutorial/arrays/)
    -   Linked Listst
    -   Queues/Stacks
    -   Trees
    -   Graphs
    -   Hash Maps
   
-
+```
 
