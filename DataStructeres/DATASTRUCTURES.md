@@ -7,7 +7,7 @@
    >-   [Queues](http://www.cplusplus.com/reference/queue/queue/)/[Stacks](http://www.cplusplus.com/reference/stack/stack/)
    >-   [Trees](https://www.geeksforgeeks.org/binary-tree-set-1-introduction/)
    >-   [Graphs](https://stackoverflow.com/questions/5493474/graph-implementation-c)
-   >-   *Hash Maps*
+   >-   **Hash Maps**
   
 
 
