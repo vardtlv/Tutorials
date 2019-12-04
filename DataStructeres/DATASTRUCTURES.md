@@ -2,11 +2,11 @@
   
   There exist different Data Structures that can be implemented in C++. Some examples would include:
 ```
-   *   Arrays
-   *   Linked Listst
-   *   Queues/Stacks
-   *   Trees
-   *   Graphs
-   *   Hash Maps
+   -  Arrays
+   -   Linked Listst
+   -   Queues/Stacks
+   -   Trees
+   -   Graphs
+   -   Hash Maps
 ```
 
