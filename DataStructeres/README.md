@@ -9,7 +9,7 @@
    >-   [Queues](http://www.cplusplus.com/reference/queue/queue/)/[Stacks](http://www.cplusplus.com/reference/stack/stack/)
    >-   [Trees](https://www.geeksforgeeks.org/binary-tree-set-1-introduction/)
    >-   [Graphs](https://stackoverflow.com/questions/5493474/graph-implementation-c)
-   >-   [###___Hash Maps___](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/README.md#what-are-hash-maps)
+   >-   [<font size="1">___Hash Maps___</font>](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/README.md#what-are-hash-maps)
    
   ## What are Hash Maps
   Hash Maps 
