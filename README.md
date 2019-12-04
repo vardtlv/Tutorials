@@ -6,5 +6,4 @@
  
 I’m also planning to share my screen while I’m running the code and show my outputs, because it is hard to understand the concepts by just seeing the code and not seeing what it does. 
 
-In this file, you can see the (Tutorials/README.md) document, which includes the following text and also DataStructures folder, which would explain what is the Data Structures, what is it used for and what are it’s implementations.
-
+In this file, you can see the Tutorials/README.md document, which includes the following text and also DataStructures folder, which would explain what is the Data Structures, what is it used for and what are it’s implementations.
