@@ -12,8 +12,7 @@
    >-   **Hash Maps**
    
   ## What are Hash Maps
-    
-   ### Hashing
+  Hash Maps 
    
    -  [Cuckoo Hashing](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/CuckooHashing.md#cuckoo-hashing)
   
