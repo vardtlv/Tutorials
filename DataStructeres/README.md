@@ -17,7 +17,8 @@
   *   For Example fro Student ID number __A12345679__, the _Hash Value_ can be computes using the _Hash Function_:
     
     h(k) = k % 13
-      > Where, k is the key of the element inserted.
+     
+   > Where, k is the key of the element inserted.
     
 
   
