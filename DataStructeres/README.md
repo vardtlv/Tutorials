@@ -16,11 +16,11 @@
   
    :small_blue_diamond: For Example fro Student ID number __A12345678__, the _Hash Value_ can be computes using the _Hash Function_:
     
-   >  h(k) = k % 13   
-   >  Where, k is the key of the element inserted.
+   >>  h(k) = k % 13   
+   >>  Where, k is the key of the element inserted.
    
-   In this case
-   >  h(12345678) = 12345678 % 13 = 7, therefore the Hash Value would be equal to 7.
+   In this case,
+   >>  h(12345678) = 12345678 % 13 = 7, therefore the Hash Value would be equal to 7.
     
 
   
