@@ -14,9 +14,9 @@
   ## What is a Hash Table
   _Hash Table_ is a _Data Strcuture_ that allows developers to access stored data elements in efficient time. In order to store the data elements into _Hash Table_, we have to choose a specific __key__ to represent it. For example, for student's data the key can be their name or the Student ID and for prduct in the store it can be its Item Number. To make the storing and accessing the data even more efficient we compress the keys by computing their __Hash Values__ using __Hash Functions__. 
   
-  *   For Example fro Student ID number __A12345679__, the _Hash Value_ can be computes usinh the _Hash Function_
+  *   For Example fro Student ID number __A12345679__, the _Hash Value_ can be computes usinh the _Hash Function_:
     
-      h(v) = k % 13
+    h(v) = k % 13
     
 
   
