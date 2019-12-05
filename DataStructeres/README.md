@@ -16,5 +16,3 @@
    
    -  [Cuckoo Hashing](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/CuckooHashing.md#cuckoo-hashing)
   
-
-<font color='red'>test blue color font</font>
