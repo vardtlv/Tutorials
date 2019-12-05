@@ -22,8 +22,10 @@
    In this case,
    >>  h(12345678) = 12345678 % 13 = 7, therefore the Hash Value would be equal to 7.
    
-The elements of _Hash Table_, are stored in Arrays. Let's assume we have an array with he capasity of _17_ elements, and our data is 10 randomly generated numbers, for which each key represents the number. And we will use the hash function
-    >>  h(k) = k % 17
+The elements of _Hash Table_, are stored in Arrays. 
+:small_blue_diamond:  Let's assume we have an array with he capasity of _17_ elements, and our data is 10 randomly generated numbers, for which each key represents the number. And we will use the hash function
+
+   >>  h(k) = k % 17
 
    -  [Cuckoo Hashing](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/CuckooHashing.md#cuckoo-hashing)
   
