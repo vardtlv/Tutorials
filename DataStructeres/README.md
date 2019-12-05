@@ -26,6 +26,7 @@ The elements of _Hash Table_, are stored in Arrays. <br /> <br />
 :small_blue_diamond:  Let's assume we have an array with the capasity of _17_ elements, and our data is _10_ randomly generated numbers. Each key would ne equal to a number it is representing. And we will use the following hash function:
 
    >>  h(k) = k % 17
-
+<br />
+In order to generate the random numbers, we can right the following C++ code.
    -  [Cuckoo Hashing](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/CuckooHashing.md#cuckoo-hashing)
   
