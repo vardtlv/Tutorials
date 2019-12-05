@@ -12,7 +12,7 @@
    >-   [<font size="30">___Hash Table___</font>](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/README.md#what-are-hash-maps)
    
   ## What is a Hash Table
-  _Hash Table_ is a Data Strcuture allows the developers to access stored data elements in efficient time. In order to store the data elements into _Hash Table_, we have to choose a specific __key__ to represent it. For example, for student's data the key can be their name or the Student ID and for prduces in the store it can be its Item Number. To make the storing and finding the data elements even more efficient we copress the keys by computing it __Hash Values__.
+  _Hash Table_ is a _Data Strcuture_ allows developers to access stored data elements in efficient time. In order to store the data elements into _Hash Table_, we have to choose a specific __key__ to represent it. For example, for student's data the key can be their name or the Student ID and for prduces in the store it can be its Item Number. To make the storing and finding the data elements even more efficient we copress the keys by computing it __Hash Values__.
   
    -  [Cuckoo Hashing](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/CuckooHashing.md#cuckoo-hashing)
   
