@@ -16,10 +16,8 @@
   
   *   For Example fro Student ID number __A12345679__, the _Hash Value_ can be computes usinh the _Hash Function_
     
-    ```
       h(v) = k % 13
     
-    ```
 
   
    -  [Cuckoo Hashing](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/CuckooHashing.md#cuckoo-hashing)
