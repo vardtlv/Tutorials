@@ -14,7 +14,7 @@ Before collasion our array was organized in following way.
 >>__(~~{7, 7}~~, ~~{15, 49}~~, ~~{5, 73}~~, {7, 58}, {13, 30})__
 
 <br /><br />
-And wehn we tried to add 58, theindex 7 was already taken.
+And wehn we tried to add 58, with key 7, index 7 was already taken.
 
 <br />
 > {7, 58}
