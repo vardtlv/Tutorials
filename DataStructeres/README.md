@@ -150,7 +150,7 @@ Add the element 73 with a key value 5, at a position 5.
 >>__(~~{7, 7}~~, ~~{15, 49}~~, ~~{5, 73}~~, {7, 58}, {13, 30})__
 
 <br /><br />
-Add the element 73 with a key value 5, at a position 5.
+Add the element 58 with a key value 7, at a position 7.
 
 > {7, 58}
 
