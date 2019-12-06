@@ -60,5 +60,7 @@ In order to generate the random numbers, we can right the following C++ code.
     cout << "Hello World! " << x << std::endl();
   }
   ```
+   :::python
+    import abc
    -  [Cuckoo Hashing](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/CuckooHashing.md#cuckoo-hashing)
   
