@@ -105,7 +105,7 @@ Now that we have the _Hash Values_ we can populate out array of suze 17. First, 
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  
 
-Now we can add the element 7 with a key value 7,at a position 7.
+Now we can add the element 7 with a key value 7, at a position 7.
 
 > {7, 7}
 
@@ -113,6 +113,24 @@ Now we can add the element 7 with a key value 7,at a position 7.
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |     |     |     |     |     |     |     |  7  |     |     |     |     |     |     |     |     |     |  
 
-Add the element 49 with a key value 15,at a position 15.
+Add the element 49 with a key value 15, at a position 15.
 
-> {7, 7}
+> {49, 15}
+
+|  0  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |  10 |  11 |  12 |  13 |  14 |  15 |  16 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|     |     |     |     |     |     |     |  7  |     |     |     |     |     |     |     |  49 |     | 
+
+Add the element 73 with a key value 5, at a position 5.
+
+> {73, 5}
+
+|  0  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |  10 |  11 |  12 |  13 |  14 |  15 |  16 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|     |     |     |     |     |  73 |     |  7  |     |     |     |     |     |     |     |  49 |     |
+
+Add the element 73 with a key value 5, at a position 5.
+
+> {58, 7}
+
+:disappointed_relieved: But wait, the posotion 7 is already taken by the element 7.
