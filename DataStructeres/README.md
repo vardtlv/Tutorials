@@ -30,3 +30,7 @@ The elements of _Hash Table_, are stored in Arrays. <br /> <br />
 In order to generate the random numbers, we can right the following C++ code.
 
 <br />
+
+```cpp
+#include namespace std;
+```
