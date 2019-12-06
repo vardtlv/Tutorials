@@ -67,7 +67,7 @@ In order to generate the random numbers, we can right the following C++ code.
 <a href="#">My code</a>
 ~~~
 
-```ruby
+``` ruby
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
