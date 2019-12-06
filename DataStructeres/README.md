@@ -99,5 +99,8 @@ The previous code generated the following _Hash Value_:
 
 ![image1](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/HashValueOutput.png)
 
+Now that we have the _Hash Values_ we can populate out array of suze 17. First, it's empity:
 
-}
+|  0  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |  10 |  11 |  12 |  13 |  14 |  15 |  16 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     | 
