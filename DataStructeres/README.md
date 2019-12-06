@@ -53,13 +53,13 @@ In order to generate the random numbers, we can right the following C++ code.
 }
 ```
 
-  ```C++
+  ~~~cpp
   int main() {
     int y = SOME_MACRO_REFERENCE;
     int x = 5 + 6;
     cout << "Hello World! " << x << std::endl();
   }
-  ```
+  ~~~```
    :::python
    import abc
    
