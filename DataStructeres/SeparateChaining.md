@@ -1,4 +1,4 @@
-# Separate Chaining
+# :link: Separate Chaining
 
 In Linear Probing, we resolve the collasions by incrementing the index untill the position is not taken.
 > index = index + 1
