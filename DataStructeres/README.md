@@ -32,9 +32,7 @@ In order to generate the random numbers, we can right the following C++ code.
 <br />
 
 ```cpp
-#include namespace std;
 #include <iostream>
-
 
 using namespace std;
 
