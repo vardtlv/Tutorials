@@ -91,8 +91,12 @@ int main(void)
     return 0;  
 }
 ```
-ljdkshd
 
+The previous code generated the following _Hash Value_:
+
+> {7, 10,  8,  3,  4}.
+
+![image1](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/HashValueOutput.png)
 
 
 }
