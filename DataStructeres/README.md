@@ -34,7 +34,7 @@ The elements of _Hash Table_, are stored in Arrays. <br /> <br />
   [here](https://www.youtube.com/watch?v=uq9FM-nCHVw).
 
 <br />
-#
+
 ```cpp
 #include <iostream>
 
@@ -64,4 +64,4 @@ Now for each key we can compute the _Hash Value_, using the _Hash Function_
 
 >>  h(k) = k % 17.
 
-To print the computed _Hash Values_ we can expend our previosly made .cpp file.
+To print the computed _Hash Values_ we can expend our previosly made [.cpp](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/createRandomNumbers.cpp) file.
