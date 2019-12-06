@@ -58,4 +58,4 @@ int main(void)
 
 The previous code generated the following random numbers:
 
-> 7 49  73  58  30
+> {7, 49,  73,  58,  30}
