@@ -60,6 +60,8 @@ The previous code generated the following random numbers:
 
 > {7, 49,  73,  58,  30}.
 
+![image1](Random Numbers Output.png)
+
 Now for each key we can compute the _Hash Value_, using the _Hash Function_ 
 
 >>  h(k) = k % 17.
