@@ -63,6 +63,8 @@ In order to generate the random numbers, we can right the following C++ code.
    :::python
    import abc
    
-   
+~~~html
+<a href="#">My code</a>
+~~~
    -  [Cuckoo Hashing](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/CuckooHashing.md#cuckoo-hashing)
   
