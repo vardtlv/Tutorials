@@ -52,5 +52,13 @@ In order to generate the random numbers, we can right the following C++ code.
   }
 }
 ```
+
+```cpp
+int main() {
+  int y = SOME_MACRO_REFERENCE;
+  int x = 5 + 6;
+  cout << "Hello World! " << x << std::endl();
+}
+```
    -  [Cuckoo Hashing](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/CuckooHashing.md#cuckoo-hashing)
   
