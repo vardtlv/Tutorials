@@ -1,4 +1,4 @@
-:arrow_right_hook: # Linear Probing
+# :arrow_right_hook: Linear Probing
 
 In Linear Probing, we resolve the collasions by incrementing the index untill the position is not take.
 > index = index + 1
