@@ -3,7 +3,7 @@
 In Linear Probing, we resolve the collasions by incrementing the index untill the position is not take.
 > index = index + 1
 
-Before collasion our array was organizes following way.
+Before collasion our array was organized in following way.
 
 |  0  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |  10 |  11 |  12 |  13 |  14 |  15 |  16 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
