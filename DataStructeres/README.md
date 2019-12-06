@@ -107,6 +107,8 @@ Now that we have the _Hash Values_ we can populate out array of suze 17. First, 
 
 Now we can add the element 7 with a key value 7,at a position 7.
 
-> {7,7}
+> {7, 7}
 
-
+|  0  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |  10 |  11 |  12 |  13 |  14 |  15 |  16 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|     |     |     |     |     |     |     |  7  |     |     |     |     |     |     |     |     |     |  
