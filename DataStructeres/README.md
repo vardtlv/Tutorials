@@ -66,5 +66,10 @@ In order to generate the random numbers, we can right the following C++ code.
 ~~~html
 <a href="#">My code</a>
 ~~~
-   -  [Cuckoo Hashing](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/CuckooHashing.md#cuckoo-hashing)
+
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
   
