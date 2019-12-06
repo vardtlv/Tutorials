@@ -94,7 +94,7 @@ int main(void)
 
 The previous code generated the following _Hash Value_:
 
-> {7, 10,  8,  3,  4}.
+> {7, 15,  5,  7,  13}.
 
 ![image1](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/HashValueOutput.png)
 
