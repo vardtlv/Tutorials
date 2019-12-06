@@ -30,7 +30,7 @@ The elements of _Hash Table_, are stored in Arrays. <br /> <br />
 
   In order to generate the random numbers, we can right the following C++ code. You can find the .cpp file 
   [here](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/createRandomNumbers.cpp) 
-  and YouTube video on how to compile and run the following code in Vim 
+  and **YouTube** video on how to compile and run the following code in Vim 
   [here](https://www.youtube.com/watch?v=uq9FM-nCHVw).
 
 <br />
@@ -66,7 +66,10 @@ Now for each key we can compute the _Hash Value_, using the _Hash Function_
 
 >>  h(k) = k % 17.
 
-To print the computed _Hash Values_ we can expend our previosly made [.cpp](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/createRandomNumbers.cpp) file.
+To print the computed _Hash Values_ we can expend our previosly made [.cpp](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/createRandomNumbers.cpp) file. You can find the .cpp file 
+  [here](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/createRandomNumbers.cpp) 
+  and **YouTube** video on how to compile and run the following code in Vim 
+  [here](https://www.youtube.com/watch?v=uq9FM-nCHVw).
 
 ```cpp
 #include <iostream>
