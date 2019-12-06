@@ -53,7 +53,7 @@ In order to generate the random numbers, we can right the following C++ code.
 }
 ```
 
-~~~cpp
+~~~c++
  int main() {
    int y = SOME_MACRO_REFERENCE;
    int x = 5 + 6;
@@ -67,9 +67,11 @@ In order to generate the random numbers, we can right the following C++ code.
 <a href="#">My code</a>
 ~~~
 
-``` ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
+~~~c++
+ int main() {
+   int y = SOME_MACRO_REFERENCE;
+   int x = 5 + 6;
+   cout << "Hello World! " << x << std::endl();
+ }
+~~~
   
