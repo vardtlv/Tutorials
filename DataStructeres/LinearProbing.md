@@ -17,7 +17,9 @@ Before collasion our array was organized in following way.
 And when we tried to add 58, with the key 7, index 7 was already taken.
 
 <br />
+
 > {7, 58}
+  
 <br />
 
 In order to resolve the collision, we increment the index.
