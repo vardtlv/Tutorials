@@ -143,11 +143,7 @@ To resolve the following issue, I will introduce three different methods to reso
 <br />
 ## Collision Resolution in Hashing
 
--   (**Linear Probing**)[https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/LinearProbing.md#linear-probing]
--   (**Separate Chaining**)[https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/LinearProbing.md#separate-chaining]
--   (**Double Hashing**)[https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/LinearProbing.md#double-phashing]
+-   [**Linear Probing**](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/LinearProbing.md#linear-probing)
+-   [**Separate Chaining**](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/LinearProbing.md#separate-chaining)
+-   [**Double Hashing**](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/LinearProbing.md#double-phashing)
 
-
--   (**Linear Probing**)[https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/LinearProbing.md#linear-probing]
--   (**Separate Chaining**)[https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/LinearProbing.md#separate-chaining]
--   (**Double Hashing**)[https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/LinearProbing.md#double-phashing]
