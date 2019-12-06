@@ -111,7 +111,7 @@ First, it's empity:
 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  
 
 
->>__({7, 7}, {49, 15}, {73, 5}, {58, 7}, {30, 13})__
+>>__(___{7, 7}___, {49, 15}, {73, 5}, {58, 7}, {30, 13})__
 
 
 Now we can add the element 7 with a key value 7, at a position 7.
