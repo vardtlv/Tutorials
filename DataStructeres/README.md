@@ -30,7 +30,7 @@ The elements of _Hash Table_, are stored in Arrays. <br /> <br />
 
   In order to generate the random numbers, we can right the following C++ code. You can find the .cpp file 
   [here](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/createRandomNumbers.cpp) 
-  and YouTube video on how to compile and run the code, and thr output 
+  and YouTube video on how to compile and run the following code in Vim 
   [here](https://www.youtube.com/watch?v=uq9FM-nCHVw).
 
 <br />
