@@ -101,7 +101,7 @@ The previous code generated the following _Hash Value_:
 
 Now that we have the _Hash Values_ we can populate out array of suze 17. 
 <br />
->__({7, 7}, {49, 15}, {73, 5}, {58, 7}, {30, 13})__
+>>__({7, 7}, {49, 15}, {73, 5}, {58, 7}, {30, 13})__
 <br />
 <br />
 First, it's empity:
@@ -110,6 +110,10 @@ First, it's empity:
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  
 
+<br />
+>>__(___{7, 7}___, {49, 15}, {73, 5}, {58, 7}, {30, 13})__
+<br />
+<br />
 Now we can add the element 7 with a key value 7, at a position 7.
 
 > {7, 7}
