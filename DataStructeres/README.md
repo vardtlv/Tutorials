@@ -58,8 +58,10 @@ int main(void)
 
 The previous code generated the following random numbers:
 
-> {7, 49,  73,  58,  30}
+> {7, 49,  73,  58,  30}.
 
 Now for each key we can compute the _Hash Value_, using the _Hash Function_ 
 
->>  h(k) = k % 17
+>>  h(k) = k % 17.
+
+To print the computed _Hash Values_ we can expend our previosly made .cpp file.
