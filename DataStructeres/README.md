@@ -31,25 +31,25 @@ In order to generate the random numbers, we can right the following C++ code.
 
 <br />
 ```cpp
-  1 #include <iostream>
-  2 
-  3 
-  4 using namespace std;
-  5 
-  6 // This program will create same sequence of  
-  7 // random numbers on every program run  
-  8 int main(void)
-  9 {
- 10     // Loop 5 time to generate 5 random numbers 
- 11     for (int i = 1; i < 6; i++){
- 12         int newNumber = rand();// rand() is used to generate a random number
- 13         newNumber = newNumber % 100; //making sure that number is from 0 to 99
- 14         cout << "\nData Element " << i<< ": " <<  newNumber << endl;// printing     the number
- 15         cout << "\n";
- 16     }
- 17 
- 18     return 0;
- 19 }
+  #include <iostream>
+   
+  
+  using namespace std;
+   
+  // This program will create same sequence of  
+  // random numbers on every program run  
+  int main(void)
+  {
+      // Loop 5 time to generate 5 random numbers 
+      for (int i = 1; i < 6; i++){
+          int newNumber = rand();// rand() is used to generate a random number
+          newNumber = newNumber % 100; //making sure that number is from 0 to 99
+          cout << "\nData Element " << i<< ": " <<  newNumber << endl;// printing     the number
+          cout << "\n";
+      }
+  
+      return 0;
+  }
 }
 ```
    -  [Cuckoo Hashing](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/CuckooHashing.md#cuckoo-hashing)
