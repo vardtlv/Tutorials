@@ -101,7 +101,8 @@ The previous code generated the following _Hash Value_:
 
 Now that we have the _Hash Values_ we can populate out array of suze 17. 
 <br />
->({7, 7}, {49, 15}, {73, 5}, {58, 7}, {30, 13})
+>__({7, 7}, {49, 15}, {73, 5}, {58, 7}, {30, 13})__
+<br />
 <br />
 First, it's empity:
 
