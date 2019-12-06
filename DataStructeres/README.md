@@ -133,4 +133,16 @@ Add the element 73 with a key value 5, at a position 5.
 
 > {58, 7}
 
+<br />
+
 :disappointed_relieved: But wait, the posotion 7 is already taken by the element 7.
+
+<br /> 
+
+To resolve the following issue, I will introduce three different methods to resolve the collasion.
+<br />
+## Collision Resolution in Hashing
+
+- Some
+- thing
+- done
