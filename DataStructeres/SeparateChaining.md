@@ -1,6 +1,6 @@
 # :link: Separate Chaining
 
-In Linear Probing, we resolve the collisions by linking the new input in to already existing one.
+In Separate Chaining, we resolve the collisions by linking the new input in to already existing one.
 
 Before collision our array was organized in the following way.
 
