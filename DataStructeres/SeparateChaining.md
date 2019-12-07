@@ -1,8 +1,8 @@
 # :link: Separate Chaining
 
-In Linear Probing, we resolve the collasions by linking the new input in to already existing one.
+In Linear Probing, we resolve the collisions by linking the new input in to already existing one.
 
-Before collasion our array was organized in following way.
+Before collision our array was organized in the following way.
 
 |  0  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |  10 |  11 |  12 |  13 |  14 |  15 |  16 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -49,4 +49,4 @@ Now when the collision is resolved we can add the last value. Add the element 30
 
 <br />
 
-Now our Array is complete. We can still add values untill all indexes of the array is taken, then we have to increment the size of the Array.
+Now our Array is complete. We can still add values until all indexes of the array is taken, then we have to increment the size of the Array.
