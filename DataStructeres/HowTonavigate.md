@@ -1,4 +1,4 @@
-# :question:HowToNavigate
+# :question:How to Navigate
 
 In __[DataStructeres](https://github.com/vardtlv/Tutorials/tree/master/DataStructeres#what-is-data-structures)__ you can find the following files:
   
