@@ -12,9 +12,9 @@
    >-   [<font size="30">___Hash Table___</font>](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/README.md#what-are-hash-maps)
    
   ## What is a Hash Table
-  _Hash Table_ is a _Data Strcuture_ that allows developers to access stored data elements in efficient time. In order to store the data elements into _Hash Table_, we have to choose a specific __key__ to represent it. For example, for student's data the key can be their name or the Student ID and for prduct in the store it can be its Item Number. To make the storing and accessing the data even more efficient we compress the keys by computing their __Hash Values__ using __Hash Functions__. 
+  _Hash Table_ is a _Data Structure_ that allows developers to access stored data elements in efficient time. In order to store the data elements into _Hash Table_, we have to choose a specific __key__ to represent it. For example, for a student's data the key can be their name or the Student ID and for product in the store it can be its Item Number. To make the storing and accessing the data even more efficient we compress the keys by computing their __Hash Values__ using __Hash Functions__. 
   
-:small_blue_diamond: For Example fro Student ID number __A12345678__, the _Hash Value_ can be computes using the _Hash Function_:
+:small_blue_diamond: For Example for Student ID number __A12345678__, the _Hash Value_ can be computed using the _Hash Function_:
     
    >>  h(k) = k % 13   
    >>  Where, k is the key of the element inserted.
