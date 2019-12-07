@@ -8,11 +8,11 @@
   ## Data Structures implemented in C++
   There exist different Data Structures that can be implemented in C++. Some examples would include:
   
-   >-   Arrays, [link](http://www.cplusplus.com/doc/tutorial/arrays/) external to external source,
-   >-   Linked Lists,[link](https://www.geeksforgeeks.org/data-structures/linked-list/) external to external source,
-   >-   Queues/Stacks, [link](http://www.cplusplus.com/reference/queue/queue/)/[link](http://www.cplusplus.com/reference/stack/stack/) external to external source,
-   >-   Trees, [link](https://www.geeksforgeeks.org/binary-tree-set-1-introduction/) external to external source,
-   >-   Graphs, [link](https://stackoverflow.com/questions/5493474/graph-implementation-c) external to external source,
+   >-   Arrays, [link](http://www.cplusplus.com/doc/tutorial/arrays/) to external source,
+   >-   Linked Lists,[link](https://www.geeksforgeeks.org/data-structures/linked-list/) to external source,
+   >-   Queues/Stacks, [link](http://www.cplusplus.com/reference/queue/queue/)/[link](http://www.cplusplus.com/reference/stack/stack/) to external source,
+   >-   Trees, [link](https://www.geeksforgeeks.org/binary-tree-set-1-introduction/) to external source,
+   >-   Graphs, [link](https://stackoverflow.com/questions/5493474/graph-implementation-c) to external source,
    >-   [<font size="30">___Hash Table___</font>](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/README.md#what-are-hash-maps)
    
   ## What is a Hash Table
