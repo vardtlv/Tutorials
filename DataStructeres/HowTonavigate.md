@@ -14,7 +14,7 @@ In __[DataStructures](https://github.com/vardtlv/Tutorials/tree/master/DataStruc
     * [HowToNavigate.md](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/HowTonavigate.md#questionhow-to-navigate)
     >You are now reading the content of this file.
     
-  * __.cpp__ files are the C++ codes that I used in this tutorial. You can download those and run, if you want to see the outputs by yourself.
+  * __.cpp__ files are the C++ codes that I used in this tutorial. You can download those files and run, if you want to see the outputs by yourself.
     * createRandomNumbers.cpp
     > Used to generate the random data values.
     * createHashValues.cpp
