@@ -23,12 +23,12 @@
    >>  h(12345678) = 12345678 % 13 = 7, therefore the Hash Value would be equal to 7.
    
 The elements of _Hash Table_, are stored in Arrays. <br /> <br />
-:small_blue_diamond:  Let's assume we have an array with the capasity of _5_ elements, and our data is _10_ randomly generated numbers. Each key would ne equal to a number it is representing. And we will use the following hash function:
+:small_blue_diamond:  Let's assume we have an array with a capacity of _5_ elements, and our data is _10_ randomly generated numbers. Each key would be equal to a number it is representing. And we will use the following hash function:
 
    >>  h(k) = k % 17
 <br />
 
-  In order to generate the random numbers, we can right the following C++ code. You can find the .cpp file 
+  In order to generate the random numbers, we can write the following C++ code. You can find the .cpp file 
   [here](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/createRandomNumbers.cpp) 
   and [**YouTube**](https://www.youtube.com/watch?v=uq9FM-nCHVw) video on how to compile and run the following code in Vim.
 
