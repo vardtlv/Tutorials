@@ -19,4 +19,5 @@ In __[DataStructeres](https://github.com/vardtlv/Tutorials/tree/master/DataStruc
     > Used to generate the random data values.
     * createHashValues.cpp
     > Used to calculate the Hash Values for the kes
-  * __.png__ files are the images I used in .md files. You don't have to open these files separetly, they are just included in the text.
+  * __.png__ files are the images I used in .md files. 
+  > You don't have to open these files separetly, they are just included in the text.
