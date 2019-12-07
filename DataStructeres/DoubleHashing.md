@@ -1,6 +1,6 @@
 # :fast_forward: Double Hashing
 
-In _Double Hashing_, we resolve the collisions by using second _Hash Function_ and adding the result from second _Hash Function_ into the old hash function. In our case the new _Hash Function_ will be the following:
+In _Double Hashing_, we resolve the collisions by using second _Hash Function_ and adding the result from second _Hash Function_ into the previous hash function. In our case the new _Hash Function_ will be the following:
 
 > h2(k) = 13 - k%13.
 
