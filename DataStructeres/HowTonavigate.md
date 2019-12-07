@@ -1,10 +1,10 @@
 # :question:How to Navigate
 
-In __[DataStructeres](https://github.com/vardtlv/Tutorials/tree/master/DataStructeres#what-is-data-structures)__ you can find the following files:
+In __[DataStructures](https://github.com/vardtlv/Tutorials/tree/master/DataStructeres#what-is-data-structures)__ you can find the following files:
   
   * __.md__ files are regular text files.
     * [README.md](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/README.md#what-is-data-structures)
-    >This file is what you see when you open the Tutorials.
+    >This file is what you see when you open the DataStructures file.
     * [LinearProbing.md](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/LinearProbing.md#arrow_right_hook-linear-probing)
     >This is one of the three methods to resolve the collisions in Hash Maps
     * [SeparateChaining.md](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/SeparateChaining.md#link-separate-chaining)
