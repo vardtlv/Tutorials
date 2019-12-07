@@ -16,3 +16,6 @@
 
  ## How are the documents organized?
  In this file, you can see the [README.md](./README.md) document, which includes the following text and also [DataStructures](https://github.com/vardtlv/Tutorials/tree/master/DataStructeres) folder, which would explain what the Data Structures is, what is it used for and what are it’s implementations.
+
+ ## How To Navigate
+  Follow the [link](https://github.com/vardtlv/Tutorials/blob/master/HowToNavigate.md#questionhowtonavigate) to get the instructions. 
