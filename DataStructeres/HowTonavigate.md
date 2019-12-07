@@ -9,7 +9,7 @@ In __[DataStructeres](https://github.com/vardtlv/Tutorials/tree/master/DataStruc
     >This is one of the three methods to resolve the collisions in Hash Maps
     * [SeparateChaining.md](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/SeparateChaining.md#link-separate-chaining)
     >This is the second method to solve the collision
-    *[DoubleHashing.md](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/DoubleHashing.md#fast_forward-double-hashing)
+    * [DoubleHashing.md](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/DoubleHashing.md#fast_forward-double-hashing)
     >This is the last method to solve the collision
     
   * [AboutMe.md](https://github.com/vardtlv/Tutorials/blob/master/AboutMe.md#raising_handabout-me)
