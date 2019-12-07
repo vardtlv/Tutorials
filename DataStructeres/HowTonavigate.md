@@ -20,4 +20,4 @@ In __[DataStructures](https://github.com/vardtlv/Tutorials/tree/master/DataStruc
     * createHashValues.cpp
     > Used to calculate the Hash Values for the kes
   * __.png__ files are the images I used in .md files. 
-  > You don't have to open these files separetly, they are just included in the text.
+  > You don't have to open these files separately, they are just included in the text.
