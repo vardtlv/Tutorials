@@ -1,7 +1,8 @@
 # :fast_forward: Double Hashing
 
-In Linear Probing, we resolve the collasions by incrementing the index untill the position is not taken.
-> index = index + 1
+In _Double Hashing_, we resolve the collasions by adding another _Hash Function_ and adding the resoult into the old hash function. In our case the new _Hash Function_ will be the following:
+
+> h2(k) = 13 - k%13.
 
 Before collasion our array was organized in following way.
 
@@ -22,15 +23,19 @@ And when we tried to add 58, with the key 7, index 7 was already taken.
   
 <br />
 
-In order to resolve the collision, we increment the index.
+In order to resolve the collision, we compute the second _Hash Value_.
 
-> index = 7 + 1 = 8
+> h2(7) = 13 - 58%13 = 13 - 6 = 7
 
-And now we can insert the 58, at position 8.
+Now we can use the _h(2)_ to compute the new _Hash Value_:
+
+>( h(7) + h2(7) )%17 = ( 7 + 7 ) % 17 = 14
+
+And now we can insert the 58, at position 14.
 
 |  0  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |  10 |  11 |  12 |  13 |  14 |  15 |  16 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|     |     |     |     |     |  73 |     |  7  |  58 |     |     |     |     |     |     |  49 |     |
+|     |     |     |     |     |  73 |     |  7  |     |     |     |     |     |     |  58 |  49 |     |
 
 <br />
 
