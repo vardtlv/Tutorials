@@ -1,9 +1,9 @@
 # :arrow_right_hook: Linear Probing
 
-In Linear Probing, we resolve the collasions by incrementing the index untill the position is not taken.
+In Linear Probing, we resolve the collisions by incrementing the index until the position is not taken.
 > index = index + 1
 
-Before collasion our array was organized in following way.
+Before collasion our array was organized in the following way.
 
 |  0  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |  10 |  11 |  12 |  13 |  14 |  15 |  16 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -50,4 +50,4 @@ Now when the collision is resolved we can add the last value. Add the element 30
 
 <br />
 
-Now our Array is complete. We can still add values untill all indexes of the array is taken, then we have to increment the size of the Array.
+Now our Array is complete. We can still add values until all indexes of the array is taken, then we have to increment the size of the Array.
