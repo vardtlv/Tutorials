@@ -169,6 +169,9 @@ To resolve the following issue, I will introduce three different methods to reso
 ## Collision Resolution in Hashing
 
 -   [**Linear Probing**](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/LinearProbing.md#linear-probing)
+  > Increment the index by 1.
 -   [**Separate Chaining**](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/SeparateChaining.md#separate-chaining)
+  > Link to existing index.
 -   [**Double Hashing**](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/DoubleHashing.md#double-hashing)
+  > Increment the index by second Hash Value.
 
