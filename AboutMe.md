@@ -1,4 +1,4 @@
-# About Me
+#  :raising_hand:About Me
 <br />
   My name is Varduhi Torosyan and I am a fourth year Computer Science major at UC San Diego.
 <br />
