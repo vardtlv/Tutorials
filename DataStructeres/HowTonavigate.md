@@ -14,7 +14,9 @@ In __[DataStructeres](https://github.com/vardtlv/Tutorials/tree/master/DataStruc
     * [HowToNavigate.md](https://github.com/vardtlv/Tutorials/blob/master/HowToNavigate.md#questionhowtonavigate)
     >You are now reading the content of this file.
     
-  * .
-  * 
-  * [HowToNavigate.md](https://github.com/vardtlv/Tutorials/blob/master/HowToNavigate.md#questionhowtonavigate)
-    >You are now reading the content of this file.
+  * __.cpp__ files are the C++ codes that I used in this tutorial. You can download those and run, if you want to see the outputs by yourself.
+    * createRandomNumbers.cpp
+    > Used to generate the random data values.
+    * createHashValues.cpp
+    > Used to calculate the Hash Values for the kes
+  * __.png__ files are the images I used in .md files. You don't have to open these files separetly, they are just included in the text.
