@@ -3,7 +3,7 @@
 <br />
 
  ## How To Navigate
-  Follow the [link](https://github.com/vardtlv/Tutorials/blob/master/HowToNavigate.md#questionhowtonavigate) to learn how to navigate in thispage.
+  Follow the [link](https://github.com/vardtlv/Tutorials/blob/master/HowToNavigate.md#questionhowtonavigate) to learn how to navigate in this page.
   
  ## Why we need tutorials?
  Nowadays it is not possible for college students, specifically Computer Science students, to succeed in class only by reading the textbook and going to lectures. Without outside resources such as https://www.geeksforgeeks.org, http://www.cplusplus.com, https://stackoverflow.com, and many others, programming assignments would be impossible to complete. Even professors include links to these websites in assignment prompts to direct students to additional resources that might help to complete the assignments. 
