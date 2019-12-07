@@ -1,5 +1,6 @@
-## What is Data Structures
+# What is Data Structures
   In an era of massive data consumption, it is very important to store the data efficiently by using minimum space, energy and time. Data Structures is used to organise data, which includes collected the data elements, linking those data elements together and applying different operations on it, such as finding an element, deleting it, sorting, etc.
+  
   
   ## Data Structures implemented in C++
   There exist different Data Structures that can be implemented in C++. Some examples would include:
