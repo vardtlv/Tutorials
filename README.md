@@ -2,6 +2,9 @@
 
 <br />
 
+ ## How To Navigate
+  Follow the [link](https://github.com/vardtlv/Tutorials/blob/master/HowToNavigate.md#questionhowtonavigate) to learn how to navigate in thispage.
+  
  ## Why we need tutorials?
  Nowadays it is not possible for college students, specifically Computer Science students, to succeed in class only by reading the textbook and going to lectures. Without outside resources such as https://www.geeksforgeeks.org, http://www.cplusplus.com, https://stackoverflow.com, and many others, programming assignments would be impossible to complete. Even professors include links to these websites in assignment prompts to direct students to additional resources that might help to complete the assignments. 
 
@@ -17,5 +20,4 @@
  ## How are the documents organized?
  In this file, you can see the [README.md](./README.md) document, which includes the following text and also [DataStructures](https://github.com/vardtlv/Tutorials/tree/master/DataStructeres) folder, which would explain what the Data Structures is, what is it used for and what are it’s implementations.
 
- ## How To Navigate
-  Follow the [link](https://github.com/vardtlv/Tutorials/blob/master/HowToNavigate.md#questionhowtonavigate) to get the instructions. 
+ 
