@@ -49,4 +49,4 @@ Now when the collision is resolved we can add the last value. Add the element 30
 
 <br />
 
-Now our Array is complete. We can still add values until all indexes of the array is taken, then we have to increment the size of the Array.
+Now our Array is complete. We don not need to change the size of the Array in this case, no matter how many elements we insert.
