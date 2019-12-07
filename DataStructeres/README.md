@@ -65,7 +65,7 @@ Now for each key we can compute the _Hash Value_, using the _Hash Function_
 
 >>  h(k) = k % 17.
 
-To print the computed _Hash Values_ we can expend our previosly made [.cpp](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/createRandomNumbers.cpp) file. You can find the .cpp file 
+To print the computed _Hash Values_ we can expand our previously made [.cpp](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/createRandomNumbers.cpp) file. You can find the .cpp file 
   [here](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/createHashValues.cpp) 
   and [**YouTube**](https://www.youtube.com/watch?v=hTUaPLqkruw) video on how to compile and run the following code in Vim.
 
@@ -99,12 +99,12 @@ The previous code generated the following _Hash Value_:
 
 ![image1](https://github.com/vardtlv/Tutorials/blob/master/DataStructeres/HashValueOutput.png)
 
-Now that we have the _Hash Values_ we can populate out array of suze 17. 
+Now that we have the _Hash Values_ we can populate out array of size 17. 
 <br />
 >>__({7, 7}, {15, 49}, {5, 73}, {7, 58}, {13, 30})__
 <br />
 <br />
-First, it's empity:
+First, it's empty:
 
 |  0  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |  10 |  11 |  12 |  13 |  14 |  15 |  16 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -156,11 +156,11 @@ Add the element 58 with a key value 7, at a position 7.
 
 <br />
 
-:disappointed_relieved: But wait, the posotion 7 is already taken by the element 7.
+:disappointed_relieved: But wait, the position 7 is already taken by the element 7.
 
 <br /> 
 
-To resolve the following issue, I will introduce three different methods to resolve the collasion.
+To resolve the following issue, I will introduce three different methods to resolve the collision.
 <br />
 ## Collision Resolution in Hashing
 
